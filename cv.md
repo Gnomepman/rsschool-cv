@@ -18,7 +18,7 @@ I am 18 years old, highly motivated student, who is studing Computer Science in 
 ******
 # Code example
 **Codewar (Sudoku Solution Validator)** Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9.
- 
+
 ```
 function validSolution(board) {
   for (let i = 0; i < 9; i += 3) {
@@ -38,3 +38,8 @@ function validSolution(board) {
   return true;
 }
 ```
+# Education
+* **Universuty:** Chernihiv State Technological University, Computer Sciene 2020-2024
+* **Courses:**
+    + XYZ School: Intro to 3D Design
+    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)

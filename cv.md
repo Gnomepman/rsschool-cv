@@ -1,6 +1,6 @@
 # Derkach Danyil
 ******
-## Contacts
+# Contacts
 * **E-mail:** derkach782003@ukr.net
 * **Telegram:** @DerkachDanyil
 * **Linkedin:** (https://www.linkedin.com/in/derkachda/)
@@ -15,3 +15,6 @@ I am 18 years old, highly motivated student, who is studing Computer Science in 
 * Figma, Adobe Photoshop
 * VS Code, Qt
 * Git/Github
+******
+# Code example
+

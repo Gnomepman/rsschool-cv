@@ -42,7 +42,7 @@ function validSolution(board) {
 * **University:** Chernihiv State Technological University, Computer Sciene 2020-2024
 * **Courses:**
     + XYZ School: Intro to 3D Design
-    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 # Languages
 * Ukrainian (native)
 * Russian (native)

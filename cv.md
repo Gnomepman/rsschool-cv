@@ -43,3 +43,7 @@ function validSolution(board) {
 * **Courses:**
     + XYZ School: Intro to 3D Design
     + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+# Languages
+* Ukrainian (native)
+* Russian (native)
+* English (C2 according to [EFSET](https://www.efset.org/cert/tRTscD))

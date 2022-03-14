@@ -15,6 +15,7 @@ I am 18 years old, highly motivated student, who is studing Computer Science in 
 * Figma, Adobe Photoshop
 * VS Code, Qt
 * Git/Github
+* Blender
 ******
 # Code example
 **Codewar (Sudoku Solution Validator)** Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9.

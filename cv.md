@@ -14,3 +14,4 @@ I am 18 years old, highly motivated student, who is studing Computer Science in 
 * JS Basics
 * Figma, Adobe Photoshop
 * VS Code, Qt
+* Git/Github

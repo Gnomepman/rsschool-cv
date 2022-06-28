@@ -1,1 +1,1 @@
-https://Gnomepman.github.io/rsschool-cv/
+https://Gnomepman.github.io/rsschool-cv/cv

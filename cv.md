@@ -12,11 +12,12 @@ I am 18 years old, highly motivated student, who is studing Computer Science in 
 
 # Skills
 * HTML5, CSS/SCSS
-* JS/TS (in progress)
+* JS/TS
 * Figma, Adobe Photoshop
 * VS Code
 * Git/Github
 * Webpack
+* NPM
 * Node.js (basics)
 ******
 

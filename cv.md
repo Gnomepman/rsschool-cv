@@ -22,7 +22,7 @@
 > Stack: HTML, SASS
 2. Virtual keyboard ([task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md) / [repo](https://github.com/Gnomepman/rss-virtual-keyboard) / [deploy](https://gnomepman.github.io/rss-virtual-keyboard/virtual-keyboard/index.html))
 > Stack: HTML, JS, CSS
-3. Online store ([task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/online-store/README.md) / [repo](https://github.com/Gnomepman/online-store) / [deploy](https://62d5b05b68fbb6005b0ece81--gilded-medovik-92e69b.netlify.app/))
+3. Online store ([task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/online-store/README.md) / [repo](https://github.com/Gnomepman/online-store) / [deploy](https://gnomepman.github.io/online-store/dist/index.html))
 > Stack: HTML, TS, SASS, webpack
 
 

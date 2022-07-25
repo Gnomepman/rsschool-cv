@@ -19,7 +19,7 @@
 
 ## Pet projects
 1. Shelter ([task](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/stream1/shelter) / [repo](https://github.com/Gnomepman/shelter) / [deploy](https://gnomepman.github.io/shelter/shelter/pages/main/))
-> Stack: HTML, SASS
+> Stack: HTML, JS, SASS
 2. Virtual keyboard ([task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md) / [repo](https://github.com/Gnomepman/rss-virtual-keyboard) / [deploy](https://gnomepman.github.io/rss-virtual-keyboard/virtual-keyboard/index.html))
 > Stack: HTML, JS, CSS
 3. Online store ([task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/online-store/README.md) / [repo](https://github.com/Gnomepman/online-store) / [deploy](https://gnomepman.github.io/online-store/dist/index.html))
